@@ -1,0 +1,48 @@
+h1{
+    border: 10px;
+    background-color: green;
+    color: White;
+    text-align: center;
+    padding: 50px 10px 80px 10px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    border: 2px solid black;
+}
+
+.navigation{
+    background-color: #3a80cd;
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
+ul li {
+
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+div{
+    margin-top: 5px;
+    background-color: #014e68;
+    text-align: center;
+    padding: 20%;
+    color: white ;
+    border: 2px solid black;
+}
+
+footer{
+    border: 2px; 
+    border-color: black;hjkl;
+    color: white;
+    background-color: violet;
+    background-size: 100px;
+    padding: 5px;
+    margin-top: 2px;
+    text-align: center;
+    border: 0px solid black;
+}
